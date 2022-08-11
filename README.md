@@ -1,4 +1,4 @@
-# CS167Fall22PracticeAssignment
+# CS167 Fall 22 Practice Assignment
 
 This is Part 2 of Short Exercise #1, where I am asking that you get familiar with both Google Colab and GitHub Classroom. Once you have the assignment starter code up in Google Colab, you just need to follow along using the starter code and the assignment (CS167_SE1_HelloWorld.pdf).
 
